@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data",
+    "\\Dtos",
+    "\\Dtos\\UserDtos",
+    "\\Middleware",
+    "\\Migrations",
+    "\\Models",
+    "\\Properties",
+    "\\Services",
+    "\\Services\\IServices"
+  ],
+  "SelectedNode": "\\Models\\Shirt.cs",
+  "PreviewInSolutionExplorer": false
+}
